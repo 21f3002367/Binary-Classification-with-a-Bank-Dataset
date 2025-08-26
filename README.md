@@ -1,6 +1,6 @@
 # Binary-Classification-with-a-Bank-Dataset
 
-Achieved a score of 0.9520, securing a rank of 195 out of 957 participants.
+Achieved a score of ~0.96
 
 [Competion Link](https://www.kaggle.com/competitions/playground-series-s5e8/overview)
 
