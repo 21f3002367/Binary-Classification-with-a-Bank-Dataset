@@ -36,11 +36,13 @@ Implemented multiple models:
 
 - XGBoost
 
+- LGB
+
 ### Key Results
 
 - Tree-based models performed the best.
 
-- XGBoost gave the highest performance.
+- XGBoost+LGB gave the highest performance.
 
 ### Visualizations
 
